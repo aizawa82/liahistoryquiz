@@ -253,17 +253,3 @@ Variolation (early smallpox inoculation) was introduced to Europe from the Ottom
 <https://www.theguardian.com/society/2021/mar/28/how-mary-wortley-montagus-bold-experiment-led-to-smallpox-vaccine-75-years-before-jenner>
 *****
 
-## Bicycle day
-
-"Bicycle Day," celebrated annually on April 19th, commemorates which significant historical event?
-
-- [(x)] Albert Hofmann's first intentional LSD trip and his bicycle ride home from the Sandoz laboratory in 1943
-- [( )] The invention of the first modern safety bicycle by John Kemp Starley in 1885
-- [( )] The inaugural running of the Tour de France cycling race in 1903
-- [( )] The first successful human heart transplant performed by Christiaan Barnard in 1967
-*****
-Albert Hofmann's experience with LSD
-
-> ... Little by little I could begin to enjoy the unprecedented colors and plays of shapes that persisted behind my closed eyes. Kaleidoscopic, fantastic images surged in on me, alternating, variegated, opening and then closing themselves in circles and spirals, exploding in colored fountains, rearranging and hybridizing themselves in constant flux ...
-
-*****
